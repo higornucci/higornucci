@@ -14,19 +14,17 @@
 
 <div> 
    <h2> Redes sociais: </h2>
-   <a href="https://www.instagram.com/camivitoriacosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-vitoria-carneiro-costa-3326a619a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/higor-nucci-746737242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
  <br> 
  <div>
-  <a href="https://github.com/camilavitoriacosta">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=camilavitoriacosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilavitoriacosta&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/higornucci">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=higornucci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higornucci&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <!--
-**camilavitoriacosta/camilavitoriacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
