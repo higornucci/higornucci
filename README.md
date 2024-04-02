@@ -16,7 +16,7 @@ I have been working with Java software development since 2010. In 2012 I had my 
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="padding-top: 2px">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="padding-top: 2px">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="padding-top: 2px">
-  <img align="center" alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="padding-top: 2px">
+  <img align="center" alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="padding: 2px 0 2px">
 </div>
 
 <div style="display: inline_block"> 
