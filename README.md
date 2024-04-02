@@ -4,7 +4,7 @@ Analista de TI - UFMS | Fullstack Engineer | Spring | Java | Vue.js | Machine Le
 
 I have been working with Java software development since 2010. In 2012 I had my first contact with Agile Methodologies (Scrum, TDD, DDD, Integration and Continuous Delivery, etc) and since then I have increasingly entered this world. I am a Certified Scrum Developer® (CSD) and Certified Scrum Master® (CSM) by the Scrum Alliance through K21. Currently, I help in the acceleration of teams of intern and Jr developers in companies in the region (Java, Vue.js, React, Django, Docker, Agile). I am finishing my PhD in Computer Science with a focus on Artificial Intelligence (Computer Vision and Deep Learning).
 
-<div style="display: inline_block">
+<div style="display: inline_block;padding-top: 2px">
   <h2> Skills: </h2>
   
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
